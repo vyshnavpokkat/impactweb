@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/impactweb/static/css/main.057358c6.css",
+    "main.js": "/impactweb/static/js/main.0e4a54e0.js",
+    "static/js/787.a7d06ab8.chunk.js": "/impactweb/static/js/787.a7d06ab8.chunk.js",
+    "index.html": "/impactweb/index.html",
+    "main.057358c6.css.map": "/impactweb/static/css/main.057358c6.css.map",
+    "main.0e4a54e0.js.map": "/impactweb/static/js/main.0e4a54e0.js.map",
+    "787.a7d06ab8.chunk.js.map": "/impactweb/static/js/787.a7d06ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057358c6.css",
+    "static/js/main.0e4a54e0.js"
+  ]
+}
